@@ -41,21 +41,15 @@ This project demonstrates a real-time data pipeline to ingest stock market data 
 5. **Athena steps in, empowering me to query insights seamlessly:**
    - Utilize AWS Athena for effortless querying and gaining valuable insights from the processed data.
 
+## Contribution 
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
-## Prerequisites
+## Contact :-
+For any questions or feedback, please reach out to me at [Email](mailto:mdfurquan313@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-furquan-713561234/).
 
-Before you begin with the setup, make sure you have the following:
+---
 
-- **Programming Language:** Python 3.6 or higher
-
-- **Amazon Web Services (AWS):**
-  - An AWS account with the following services configured:
-    - [S3]
-    - [AWS Glue] set up with Glue Crawler and Glue Catalog
-    - [Athena]
-
-- **Confluent Kafka:** (https://www.confluent.io/)
-
-
+Check out my other projects at [GitHub](https://github.com/MohammadFurquan). </br>
+Thank you!
 
 
